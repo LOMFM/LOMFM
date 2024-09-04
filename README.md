@@ -46,42 +46,42 @@ As a senior full stack developer, I have contributed to the Saas web & mobile ap
 </table>
 
 #### Basic web development skill set
-HTML 5
-Javascript
-CSS 3
-Bootstrap
-Tailwind
+- HTML 5
+- Javascript
+- CSS 3
+- Bootstrap
+- Tailwind
 
 #### Advanced Frontend development skill set
-Typescript
-React / Redux
-Angular 2+ / Rxjs
-React Native / Expo
-Swift
-Java/Kotlin
-Electron
-Chrome Extension
+- Typescript
+- React / Redux
+- Angular 2+ / Rxjs
+- React Native / Expo
+- Swift
+- Java/Kotlin
+- Electron
+- Chrome Extension
 
 #### Backend development skill set
-Node.js / Express / Mongodb
-Python / Django / Flask / PostgreSQL
+- Node.js / Express / Mongodb
+- Python / Django / Flask / PostgreSQL
 
 #### Serverless development skill set
-Lambda
-API Gateway
-Serverless
-Firebase Authentication
-Firebase firestore DB
+- Lambda
+- API Gateway
+- Serverless
+- Firebase Authentication
+- Firebase firestore DB
 
 #### DevOps Technology skill set
-Docker
-Github CI/CD
-EC2
+- Docker
+- Github CI/CD
+- EC2
 
 #### Task management Tool
-Trello
-Jira
-Clickup
+- Trello
+- Jira
+- Clickup
 
 
 <!--
