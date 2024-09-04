@@ -7,9 +7,9 @@ I am a senior full stack developer with 8+ years experience in the web and mobil
 ## :muscle: Professional Background
 As a senior full stack developer, I have contributed to the Saas web & mobile application development. I worked with professional team and experienced how to make the startup project to the product. I have a good experience in Agile/Scrum Software Development Methodology and team collaboration in Slack and Jira.
 
-<table>
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cg-jian&layout=compact&theme=merko&count_private=true" /> 
-</table>
+<table><tr><td>
+<img  height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cg-jian&layout=compact&theme=merko&count_private=true" /> 
+</td></tr></table>
 
 ## :computer: Skill set
 <table>
